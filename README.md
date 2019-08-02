@@ -5,6 +5,10 @@ This is a research lab website template that can be used by university students 
 
 I built this for my brother years ago, and you can find his current site here: [University of Illinois Energy Transport Research Lab](http://etrl.mechanical.illinois.edu/)
 
+You can find a live view of the template using the link below:
+
+https://photonlines.github.io/Research-Lab-Website/
+
 It was built using the libraries provided below:
 
 - [Twitter Bootstrap (v2.3.1)](https://github.com/twbs/bootstrap)
